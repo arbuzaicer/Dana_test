@@ -1,4 +1,3 @@
-import React from 'react';
 import {getRandomNumber, createIdGenerator} from './funcions';
 
 const starId = createIdGenerator(1);
